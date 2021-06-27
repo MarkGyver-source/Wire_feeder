@@ -1,10 +1,3 @@
-
-/*#include "EasyNextionLibrary.h"  // Include EasyNextionLibrary
-
-  EasyNex myNex(Serial); // Create an object of EasyNex class with the name < myNex >
-  // Set as parameter the Hardware Serial you are going to use
-*/
-//#include <avr/eeprom.h> // NOT "EEPROM.H"!!!
 #include <EEPROM.h>
 
 
